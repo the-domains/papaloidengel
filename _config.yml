@@ -1,0 +1,28 @@
+name: papaloidengel
+favicon: null
+layout_spectrum: 0.5323539858218282
+typography_spectrum: 0.37400234676897526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23880869545973837
+  lightness: 0.6677766554057598
+  saturation: 0.9657510828692466
+  rhythmicContrast: 0.5483651093672961
+purpose: []
