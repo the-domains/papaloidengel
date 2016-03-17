@@ -1,28 +1,40 @@
-name: papaloidengel
 favicon: null
-layout_spectrum: 0.5323539858218282
-typography_spectrum: 0.37400234676897526
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: papaloidengel
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.23880869545973837
-  lightness: 0.6677766554057598
-  saturation: 0.9657510828692466
-  rhythmicContrast: 0.5483651093672961
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9657510828692466
+  brandStrength: 0.2388086954597384
+  lightness: 0.6677766554057598
+  brandColors:
+    - '#7E7977'
+    - '#1F1E1F'
+    - '#FBFCFC'
+    - '#ABA201'
+    - '#9A0001'
+  rhythmicContrast: 0.5483651093672961
+typography_spectrum: 0.3675373
+layout_spectrum: 0.2728545
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
