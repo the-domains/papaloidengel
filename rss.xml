@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[papaloidengel]]></title>
         <description><![CDATA[papaloidengel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/papaloidengel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 06:11:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 15:49:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/papaloidengel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dejamos entrar la luz- juego de colores - México ]]></title>
             <description><![CDATA[<article><h1>Dejamos entrar la luz- juego de colores - México </h1><p>Dejamos entrar la luz- juego de colores - México</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e1b8efa-79f3-4e12-ad81-b1b73c52b988.png"></article>]]></description>
-            <link>undefineddejamos-entrar-la-luz-juego-de-colores-mexico/index.html</link>
+            <link>https://thegrid.ai/papaloidengel/dejamos-entrar-la-luz-juego-de-colores-mexico/index.html</link>
             <guid isPermaLink="false">eafdd905-4776-4f9e-9c68-b74f5a4437e6</guid>
-            <pubDate>Thu, 17 Mar 2016 06:11:34 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 15:49:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
