@@ -1,14 +1,15 @@
 ---
 description: Dejamos entrar la luz- juego de colores - México
 author: []
-datePublished: '2016-03-17T06:11:34.559Z'
+datePublished: '2016-03-20T15:49:46.148Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Dejamos entrar la luz- juego de colores - México '
-dateModified: '2016-03-17T06:09:40.978Z'
+dateModified: '2016-03-17T06:15:45.974Z'
 sourcePath: _posts/2016-03-17-dejamos-entrar-la-luz-juego-de-colores-mexico.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
